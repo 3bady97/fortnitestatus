@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
+body {
+
+   background: linear-gradient(to right,#9575ce, #89daff);
+    min-height: 100vh;
+  font-family: 'Tajawal', sans-serif !important;
+  word-wrap: break-word !important;
+}
+.text1
+{
+	background: #00000026;
+    width: 50%;
+    padding-bottom: 1%;
+    color: #ffffffc4;
+    border-radius: 80px;
+}
+.hoverr:hover
+{
+	margin-top: -9px !important;
+	box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
